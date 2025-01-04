@@ -1,0 +1,4 @@
+[console_scripts]
+listener = pub_sub_python.subscriber:main
+talker = pub_sub_python.publisher:main
+

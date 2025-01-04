@@ -1,0 +1,25 @@
+[0.780s] Invoking command in '/home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/src/pub_sub_python': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/build/pub_sub_python/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/install/pub_sub_python/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pub_sub_python build --build-base /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/build/pub_sub_python/build install --record /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/build/pub_sub_python/install.log --single-version-externally-managed install_data
+[1.046s] running egg_info
+[1.047s] writing ../../build/pub_sub_python/pub_sub_python.egg-info/PKG-INFO
+[1.047s] writing dependency_links to ../../build/pub_sub_python/pub_sub_python.egg-info/dependency_links.txt
+[1.047s] writing entry points to ../../build/pub_sub_python/pub_sub_python.egg-info/entry_points.txt
+[1.048s] writing requirements to ../../build/pub_sub_python/pub_sub_python.egg-info/requires.txt
+[1.048s] writing top-level names to ../../build/pub_sub_python/pub_sub_python.egg-info/top_level.txt
+[1.049s] reading manifest file '../../build/pub_sub_python/pub_sub_python.egg-info/SOURCES.txt'
+[1.050s] writing manifest file '../../build/pub_sub_python/pub_sub_python.egg-info/SOURCES.txt'
+[1.050s] running build
+[1.050s] running build_py
+[1.051s] copying pub_sub_python/publisher.py -> /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/build/pub_sub_python/build/lib/pub_sub_python
+[1.051s] running install
+[1.051s] running install_lib
+[1.052s] copying /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/build/pub_sub_python/build/lib/pub_sub_python/publisher.py -> /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/install/pub_sub_python/lib/python3.10/site-packages/pub_sub_python
+[1.052s] byte-compiling /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/install/pub_sub_python/lib/python3.10/site-packages/pub_sub_python/publisher.py to publisher.cpython-310.pyc
+[1.053s] running install_data
+[1.053s] running install_egg_info
+[1.055s] removing '/home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/install/pub_sub_python/lib/python3.10/site-packages/pub_sub_python-0.0.0-py3.10.egg-info' (and everything under it)
+[1.056s] Copying ../../build/pub_sub_python/pub_sub_python.egg-info to /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/install/pub_sub_python/lib/python3.10/site-packages/pub_sub_python-0.0.0-py3.10.egg-info
+[1.057s] running install_scripts
+[1.073s] Installing listener script to /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/install/pub_sub_python/lib/pub_sub_python
+[1.073s] Installing talker script to /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/install/pub_sub_python/lib/pub_sub_python
+[1.074s] writing list of installed files to '/home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/build/pub_sub_python/install.log'
+[1.097s] Invoked command in '/home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/src/pub_sub_python' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/build/pub_sub_python/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/install/pub_sub_python/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pub_sub_python build --build-base /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/build/pub_sub_python/build install --record /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/build/pub_sub_python/install.log --single-version-externally-managed install_data

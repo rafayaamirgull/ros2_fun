@@ -1,0 +1,23 @@
+running egg_info
+writing ../../build/pub_sub_python/pub_sub_python.egg-info/PKG-INFO
+writing dependency_links to ../../build/pub_sub_python/pub_sub_python.egg-info/dependency_links.txt
+writing entry points to ../../build/pub_sub_python/pub_sub_python.egg-info/entry_points.txt
+writing requirements to ../../build/pub_sub_python/pub_sub_python.egg-info/requires.txt
+writing top-level names to ../../build/pub_sub_python/pub_sub_python.egg-info/top_level.txt
+reading manifest file '../../build/pub_sub_python/pub_sub_python.egg-info/SOURCES.txt'
+writing manifest file '../../build/pub_sub_python/pub_sub_python.egg-info/SOURCES.txt'
+running build
+running build_py
+copying pub_sub_python/publisher.py -> /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/build/pub_sub_python/build/lib/pub_sub_python
+running install
+running install_lib
+copying /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/build/pub_sub_python/build/lib/pub_sub_python/publisher.py -> /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/install/pub_sub_python/lib/python3.10/site-packages/pub_sub_python
+byte-compiling /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/install/pub_sub_python/lib/python3.10/site-packages/pub_sub_python/publisher.py to publisher.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/install/pub_sub_python/lib/python3.10/site-packages/pub_sub_python-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/pub_sub_python/pub_sub_python.egg-info to /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/install/pub_sub_python/lib/python3.10/site-packages/pub_sub_python-0.0.0-py3.10.egg-info
+running install_scripts
+Installing listener script to /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/install/pub_sub_python/lib/pub_sub_python
+Installing talker script to /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/install/pub_sub_python/lib/pub_sub_python
+writing list of installed files to '/home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/build/pub_sub_python/install.log'

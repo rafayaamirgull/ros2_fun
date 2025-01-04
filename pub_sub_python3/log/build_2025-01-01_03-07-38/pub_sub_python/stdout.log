@@ -1,0 +1,39 @@
+running egg_info
+creating ../../build/pub_sub_python/pub_sub_python.egg-info
+writing ../../build/pub_sub_python/pub_sub_python.egg-info/PKG-INFO
+writing dependency_links to ../../build/pub_sub_python/pub_sub_python.egg-info/dependency_links.txt
+writing entry points to ../../build/pub_sub_python/pub_sub_python.egg-info/entry_points.txt
+writing requirements to ../../build/pub_sub_python/pub_sub_python.egg-info/requires.txt
+writing top-level names to ../../build/pub_sub_python/pub_sub_python.egg-info/top_level.txt
+writing manifest file '../../build/pub_sub_python/pub_sub_python.egg-info/SOURCES.txt'
+reading manifest file '../../build/pub_sub_python/pub_sub_python.egg-info/SOURCES.txt'
+writing manifest file '../../build/pub_sub_python/pub_sub_python.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/build/pub_sub_python/build
+creating /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/build/pub_sub_python/build/lib
+creating /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/build/pub_sub_python/build/lib/pub_sub_python
+copying pub_sub_python/__init__.py -> /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/build/pub_sub_python/build/lib/pub_sub_python
+copying pub_sub_python/subscriber.py -> /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/build/pub_sub_python/build/lib/pub_sub_python
+copying pub_sub_python/publisher.py -> /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/build/pub_sub_python/build/lib/pub_sub_python
+running install
+running install_lib
+creating /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/install/pub_sub_python/lib/python3.10/site-packages/pub_sub_python
+copying /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/build/pub_sub_python/build/lib/pub_sub_python/__init__.py -> /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/install/pub_sub_python/lib/python3.10/site-packages/pub_sub_python
+copying /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/build/pub_sub_python/build/lib/pub_sub_python/subscriber.py -> /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/install/pub_sub_python/lib/python3.10/site-packages/pub_sub_python
+copying /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/build/pub_sub_python/build/lib/pub_sub_python/publisher.py -> /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/install/pub_sub_python/lib/python3.10/site-packages/pub_sub_python
+byte-compiling /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/install/pub_sub_python/lib/python3.10/site-packages/pub_sub_python/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/install/pub_sub_python/lib/python3.10/site-packages/pub_sub_python/subscriber.py to subscriber.cpython-310.pyc
+byte-compiling /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/install/pub_sub_python/lib/python3.10/site-packages/pub_sub_python/publisher.py to publisher.cpython-310.pyc
+running install_data
+creating /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/install/pub_sub_python/share/ament_index
+creating /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/install/pub_sub_python/share/ament_index/resource_index
+creating /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/install/pub_sub_python/share/ament_index/resource_index/packages
+copying resource/pub_sub_python -> /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/install/pub_sub_python/share/ament_index/resource_index/packages
+copying package.xml -> /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/install/pub_sub_python/share/pub_sub_python
+running install_egg_info
+Copying ../../build/pub_sub_python/pub_sub_python.egg-info to /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/install/pub_sub_python/lib/python3.10/site-packages/pub_sub_python-0.0.0-py3.10.egg-info
+running install_scripts
+Installing listener script to /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/install/pub_sub_python/lib/pub_sub_python
+Installing talker script to /home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/install/pub_sub_python/lib/pub_sub_python
+writing list of installed files to '/home/rafay/Documents/rafay/MyFolder_other_stuff/WSL_and_Stuff/other/open_source/ros2_fun/pub_sub_python3/build/pub_sub_python/install.log'
